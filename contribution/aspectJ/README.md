@@ -1,4 +1,1 @@
-# Intent
-Advanced modularization with AspectJ
-
-For more information visit the [101companies wiki](http://www.101companies.org).
+This project demonstrates aspect-oriented programming on the [101companies](http://101companies.org/) project with AspectJ
