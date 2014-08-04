@@ -1,0 +1,2 @@
+class RankingError < StandardError
+end
